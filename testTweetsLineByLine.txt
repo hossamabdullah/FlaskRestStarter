@@ -1,0 +1,666 @@
+tweet with idx : --- RT @HeshmatAlavi: #BREAKING  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- August 2  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- #Tehran, #Iran  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Vali Asr Square  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Voice says security forces attacked a young woman &amp; she is laying on th…  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- It's now Asr athan time 5:16 pm according to London city local time. #London  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- The time is August 2, 2018 at 12:15PM. It's time for Asr in New York City. #NYC  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @HeshmatAlavi: #BREAKING  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- August 2  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- #Tehran, #Iran  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Vali Asr Square  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Protesters chanting:  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- "Proud Iranians, support us"  --- 
+ , have the following postivity : 2 
+
+tweet with idx : --- #IranProtests https:/…  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @Raman_Ghavami: #IranUpdate,  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Anti establishment protesters in Tehran are trying to invite more people to start their protests.  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- It would…  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @HeshmatAlavi: #BREAKING  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- August 2  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- #Tehran, #Iran  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Vali Asr Square  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Voice says security forces attacked a young woman &amp; she is laying on th…  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @HeshmatAlavi: #BREAKING  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- August 2  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- #Tehran, #Iran  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Vali Asr Square  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Protesters chanting:  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- "Proud Iranians, support us"  --- 
+ , have the following postivity : 2 
+
+tweet with idx : --- #IranProtests https:/…  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @Mojahedineng: #BREAKING  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- #IranProtests  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- August 2 - #Tehran, #Iran  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Vali Asr Square  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Voice further explains how security forces attacked a y…  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- @elembee13 We never want you to leave our stores feeling this way. Please follow, and DM us, so we can further address this. *ASR  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- @PagineRomaniste @CalcioASRoma Announce Nzonzi  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- #IranProtests -Popular demonstrations against the economic situation and the rule of the dictatorship are expanding… https://t.co/NDGrbDcfOI  --- 
+ , have the following postivity : 1 
+
+tweet with idx : --- RT @Raman_Ghavami: #IranUpdate,  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Anti establishment protesters in Tehran are trying to invite more people to start their protests.  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- It would…  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @BridgeTheWorld1: Citizens are gatheting to protest in Vali Asr St, where from the video appears to be in front of “City Theater of Tehr…  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- RT @Raman_Ghavami: #IranUpdate,  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Anti establishment protesters in Tehran are trying to invite more people to start their protests.  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- It would…  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @Mojahedineng: #BREAKING  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- #IranProtests  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- August 2 - #Tehran, #Iran  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Vali Asr Square  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Voice further explains how security forces attacked a y…  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @BridgeTheWorld1: Citizens are gatheting to protest in Vali Asr St, where from the video appears to be in front of “City Theater of Tehr…  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- RT @BridgeTheWorld1: Citizens are gatheting to protest in Vali Asr St, where from the video appears to be in front of “City Theater of Tehr…  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- RT @Masoud_Dalvand: #Breaking, #IranProtests: August 2 - #Tehran, #Iran.   --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- Protests reach the capital as Vali Asr Square is the scene of a d…  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- RT @HeshmatAlavi: #BREAKING  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- August 2  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- #Tehran, #Iran  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Vali Asr Square  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Protesters chanting:  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- "Proud Iranians, support us"  --- 
+ , have the following postivity : 2 
+
+tweet with idx : --- #IranProtests https:/…  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @Mojahedineng: #BREAKING  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- #IranProtests  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- August 2 - #Tehran, #Iran  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Vali Asr Square  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Voice further explains how security forces attacked a y…  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @HeshmatAlavi: #BREAKING  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- August 2  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- #Tehran, #Iran  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Vali Asr Square  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Protesters chanting:  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- "Proud Iranians, support us"  --- 
+ , have the following postivity : 2 
+
+tweet with idx : --- #IranProtests https:/…  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @HeshmatAlavi: #BREAKING  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- August 2  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- #Tehran, #Iran  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Vali Asr Square  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Voice says security forces attacked a young woman &amp; she is laying on th…  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @DianaJFebry: Excellent read, great plot and real characters! Free via #kindleunlimited #Books #Mystery#ASR https://t.co/eIh1b4hYlK http…  --- 
+ , have the following postivity : 2 
+
+tweet with idx : --- RT @DianaJFebry: Excellent read, great plot and real characters! Free via #kindleunlimited #Books #Mystery#ASR https://t.co/eIh1b4hYlK http…  --- 
+ , have the following postivity : 2 
+
+tweet with idx : --- #IranUpdate,  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Anti establishment protesters in Tehran are trying to invite more people to start their protests.  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- It… https://t.co/i17hmcGFOI  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @BridgeTheWorld1: Citizens are gatheting to protest in Vali Asr St, where from the video appears to be in front of “City Theater of Tehr…  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- @FBiasin Ha scelto* LoL  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @BridgeTheWorld1: Citizens are gatheting to protest in Vali Asr St, where from the video appears to be in front of “City Theater of Tehr…  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- RT @BridgeTheWorld1: Citizens are gatheting to protest in Vali Asr St, where from the video appears to be in front of “City Theater of Tehr…  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- I'm looking for aSR Software Engineer for the Stamford, CT area. No remote work available for this one. FTE, full b… https://t.co/oB8Xgfti4f  --- 
+ , have the following postivity : 2 
+
+tweet with idx : --- RT @Mojahedineng: #BREAKING  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- #IranProtests  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- August 2 - #Tehran, #Iran  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Vali Asr Square  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Voice further explains how security forces attacked a y…  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @BridgeTheWorld1: Citizens are gatheting to protest in Vali Asr St, where from the video appears to be in front of “City Theater of Tehr…  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- RT @BridgeTheWorld1: Citizens are gatheting to protest in Vali Asr St, where from the video appears to be in front of “City Theater of Tehr…  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- Citizens are gatheting to protest in Vali Asr St, where from the video appears to be in front of “City Theater of T… https://t.co/wdWvPf3SaN  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- RT @Mojahedineng: #BREAKING  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- #IranProtests  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- August 2 - #Tehran, #Iran  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Vali Asr Square  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Voice further explains how security forces attacked a y…  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @Masoud_Dalvand: #Breaking, #IranProtests: August 2 - #Tehran, #Iran.   --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- Protests reach the capital as Vali Asr Square is the scene of a d…  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- "The story of #SpeechRecognition is as much about the application of different approaches as the development of raw… https://t.co/CSKePl2Ljv  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- "The story of #SpeechRecognition is as much about the application of different approaches as the development of raw… https://t.co/WP0qIWK1VD  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @Mojahedineng: #BREAKING  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- #IranProtests  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- August 2 - #Tehran, #Iran  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Vali Asr Square  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Voice further explains how security forces attacked a y…  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- @agoldlust We want you to be able to share your pictures with anyone you want, and are here to help. Please follow… https://t.co/5FdB5oqjrA  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- "The story of #SpeechRecognition is as much about the application of different approaches as the development of raw… https://t.co/vcsgJA4Ynu  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @s_adhiti: #Khushi just can't tolerate any other girl near to her #Arnav 😉😄😍  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Jo pehle hua naa... ab hone laga hai...❤❤  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Episode 41 #Rabb…  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @Masoud_Dalvand: #Breaking, #IranProtests: August 2 - #Tehran, #Iran.   --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- Protests reach the capital as Vali Asr Square is the scene of a d…  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- RT @HeshmatAlavi: #BREAKING  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- August 2  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- #Tehran, #Iran  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Vali Asr Square  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Voice says security forces attacked a young woman &amp; she is laying on th…  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @RVsmtown: Red Velvet Summer Mini Album  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- "Summer Magic”  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Recipes Video #4 WENDY  --- 
+ , have the following postivity : 0 
+
+tweet with idx : ---    --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- #레드벨벳 #RedVelvet #SummerMagic #PowerUp https://t.co/hUDa…  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @wenderland__: [Official] Teaser #RedVelvet #SummerMagic #PowerUp https://t.co/33rdliQwnI  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @Masoud_Dalvand: #Breaking, #IranProtests: August 2 - #Tehran, #Iran.   --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- Protests reach the capital as Vali Asr Square is the scene of a d…  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- RT @HeshmatAlavi: #BREAKING  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- August 2  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- #Tehran, #Iran  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Vali Asr Square  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Voice says security forces attacked a young woman &amp; she is laying on th…  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @s_adhiti: Watch the RERUN of ORIGINAL  #IssPyaarKoKyaNaamDoon #IPKKND as #RABBAVE MONDAY to SUNDAY at 7:00 pm (IST) ONLY ON STAR UTSAV…  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @s_adhiti: "Welcome to hell, Miss Khushi Kumari Gupta"   --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- Arnav (ASR) for the First Time calling Khushi's Name, KKG, Watch it tonight in e…  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @s_adhiti: The Great ASR is lost in Khushi's Beauty😉😍  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Enjoy the "First Rabba Ve Moment" of Arnav-Khushi tonight in Episode 22 at 7:00 pm…  --- 
+ , have the following postivity : 1 
+
+tweet with idx : --- #ArHi #IPKKND FF | Entangled - Chapter Eight | Happy Reading, Cheers! 🍷 #amwriting   --- 
+ , have the following postivity : 1 
+
+tweet with idx : --- https://t.co/Ask0gAom4r https://t.co/1CQKdrXvbG  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @Mojahedineng: #BREAKING  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- #IranProtests  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- August 2 - #Tehran, #Iran  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Vali Asr Square  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Voice further explains how security forces attacked a y…  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @Mojahedineng: #BREAKING  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- #IranProtests  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- August 2 - #Tehran, #Iran  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Vali Asr Square  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Voice further explains how security forces attacked a y…  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @Mojahedineng: #BREAKING  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- #IranProtests  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- August 2 - #Tehran, #Iran  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Vali Asr Square  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Voice further explains how security forces attacked a y…  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @Surbhi_fc_mm1: THE TOPPER   --- 
+ , have the following postivity : 0 
+
+tweet with idx : ---  🏆  ❤😉💖  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- #majorthrowback   --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- @SurbhiChandna   --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- #Ishqbaaaz  #surbhichandna   --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- That  smile 💘💘 https://t.co/lJQUQQaf6R  --- 
+ , have the following postivity : 1 
+
+tweet with idx : --- RT @HeshmatAlavi: #BREAKING  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- August 2  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- #Tehran, #Iran  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Vali Asr Square  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Protesters chanting:  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- "Proud Iranians, support us"  --- 
+ , have the following postivity : 2 
+
+tweet with idx : --- #IranProtests https:/…  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @HeshmatAlavi: #BREAKING  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- August 2  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- #Tehran, #Iran  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Vali Asr Square  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Voice says security forces attacked a young woman &amp; she is laying on th…  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @Masoud_Dalvand: #Breaking, #IranProtests: August 2 - #Tehran, #Iran.   --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- Protests reach the capital as Vali Asr Square is the scene of a d…  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- RT @Mojahedineng: #BREAKING  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- #IranProtests  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- August 2 - #Tehran, #Iran  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Vali Asr Square  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Voice further explains how security forces attacked a y…  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @Mojahedineng: #BREAKING  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- #IranProtests  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- August 2 - #Tehran, #Iran  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Vali Asr Square  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Voice further explains how security forces attacked a y…  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @Mojahedineng: #BREAKING  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- #IranProtests  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- August 2 - #Tehran, #Iran  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Protests reach the capital as Vali Asr Square is the scene of a demonst…  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- RT @HeshmatAlavi: #BREAKING  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- August 2  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- #Tehran, #Iran  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Vali Asr Square  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Voice says security forces attacked a young woman &amp; she is laying on th…  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- #BREAKING  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- #IranProtests  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- August 2 - #Tehran, #Iran  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Vali Asr Square  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Voice further explains how security forces attack… https://t.co/TEyv9kO3VS  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- @RailMinIndia @RailwaySeva @PiyushGoyal PNR NO 6517651313 HWH ASR MAIL 13006  S3. COACH IS VERY DIRTY AND TOILET IS… https://t.co/zPVF96g77H  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- RT @HeshmatAlavi: #BREAKING  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- August 2  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- #Tehran, #Iran  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Vali Asr Square  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Voice says security forces attacked a young woman &amp; she is laying on th…  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @waitshia: Training of Protection of Children from Sexual Offences at Wal Asr Imamia Trust WAIT on 30 July 2018   --- 
+ , have the following postivity : 2 
+
+tweet with idx : --- By Mr.Jayant Kaushal   --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- A…  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @Masoud_Dalvand: #Breaking, #IranProtests: August 2 - #Tehran, #Iran.   --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- Protests reach the capital as Vali Asr Square is the scene of a d…  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- RT @Mojahedineng: #BREAKING  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- #IranProtests  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- August 2 - #Tehran, #Iran  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Protests reach the capital as Vali Asr Square is the scene of a demonst…  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- RT @HeshmatAlavi: #BREAKING  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- August 2  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- #Tehran, #Iran  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Vali Asr Square  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Voice says security forces attacked a young woman &amp; she is laying on th…  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @Masoud_Dalvand: #Breaking, #IranProtests: August 2 - #Tehran, #Iran.   --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- Protests reach the capital as Vali Asr Square is the scene of a d…  --- 
+ , have the following postivity : -1 
+
