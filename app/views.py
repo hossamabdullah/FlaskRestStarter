@@ -8,10 +8,9 @@ import os
 
 api = Api(app)
 
-from models import Pet
-from Utils import Util
+from app.Utils import Util
 
-class SentimentServiceAPI(Rsource):
+class SentimentServiceAPI(Resource):
     def __init__(self):
         self.parser = reqparse.RequestParser()
         self.parser.add_argument('keyword', location='json', required=True, help="keyword is required")
@@ -20,4 +19,4 @@ class SentimentServiceAPI(Rsource):
         args = self.parser.parse_args()
         return args["keyword"], 200
 
-api.add_resource(PetInsertionAPI, '/pet', endpoint = 'PetInsertionAPI')
+api.add_resource(SentimentServiceAPI, '/sentiment', endpoint = 'SentimentServiceAPI')
