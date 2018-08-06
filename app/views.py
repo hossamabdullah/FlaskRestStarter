@@ -22,9 +22,26 @@ class SentimentServiceAPI(Resource):
         self.parser.add_argument('keyword', required=True, help="keyword is required")
         args = self.parser.parse_args()
         tweetSearch(args["keyword"])
-        sentiment = tweetSentimentAnalysis()
-        print(sentiment)
-        return sentiment, 200
+        output = tweetSentimentAnalysis()
+        print("***************************")
+        print(output['sentiment'])
+        print("***************************")
+        return output['sentiment'], 200
+
+@api.route('/values', endpoint = 'SentimentDetailsAPI')
+class ValuesServicesAPI(Resource):
+
+    @api.doc(params={'keyword':'keyword to perform sentiment analysis on'})
+    def post(self):
+        self.parser = reqparse.RequestParser()
+        self.parser.add_argument('keyword', required=True, help="keyword is required")
+        args = self.parser.parse_args()
+        tweetSearch(args["keyword"])
+        output = tweetSentimentAnalysis()
+        print("***************************")
+        print(output['positive'],output['negative'] ,output['valuesSum'])
+        print("***************************")
+        return output, 200
 
 
 

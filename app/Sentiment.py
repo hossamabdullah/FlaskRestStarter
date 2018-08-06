@@ -86,18 +86,27 @@ def tweetSentimentAnalysis():
             negative_counter += n
             temp = p - n 
             dataToBeSaved = "tweet with idx : --- {}  --- \n , have the following postivity : {} \n\n".format(tweet, temp)
-            print(dataToBeSaved.encode("utf-8"))
+            #print(dataToBeSaved.encode("utf-8"))
             outFile.write(dataToBeSaved)
             
     outFile.close()
-    #print("positive_counter:", positive_counter, "negative_counter:", negative_counter)
 
-    # Hopefully, this is self-explanatory
     if positive_counter > negative_counter:
-        return "POSITIVE"
+        sentiment="POSITIVE"
 
     elif positive_counter < negative_counter:
-        return "NEGATIVE"
+        sentiment="NEGATIVE"
 
     else:
-        return "NEUTRAL"
+        sentiment="NEUTRAL"
+
+    valuesSum=positive_counter+negative_counter
+    output={'positive':positive_counter,'negative':negative_counter,'sentiment':sentiment,'valuesSum':valuesSum}
+
+
+    print("//////////////////////////////////////////////////////////////////////////")
+    print("positive_counter:", positive_counter, "negative_counter:", negative_counter,"valuesSum",valuesSum)
+    print("//////////////////////////////////////////////////////////////////////////")
+    # Hopefully, this is self-explanatory
+
+    return (output)
