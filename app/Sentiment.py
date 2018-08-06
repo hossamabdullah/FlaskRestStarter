@@ -86,7 +86,7 @@ def tweetSentimentAnalysis():
             negative_counter += n
             temp = p - n 
             dataToBeSaved = "tweet with idx : --- {}  --- \n , have the following postivity : {} \n\n".format(tweet, temp)
-            print(dataToBeSaved)
+            print(dataToBeSaved.encode("utf-8"))
             outFile.write(dataToBeSaved)
             
     outFile.close()
@@ -101,6 +101,3 @@ def tweetSentimentAnalysis():
 
     else:
         return "NEUTRAL"
-
-tweetSearch("vodafone")
-tweetSentimentAnalysis()

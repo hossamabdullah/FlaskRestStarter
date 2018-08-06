@@ -4,7 +4,7 @@ from flask import request, jsonify
 from werkzeug.datastructures import FileStorage
 import os
 from app.Sentiment import tweetSearch, tweetSentimentAnalysis
-
+from flask import jsonify
 from flask_restplus import Api, Resource, fields, reqparse
 
 api = Api(app, version='1.0', title='Sentiment API',
@@ -23,6 +23,7 @@ class SentimentServiceAPI(Resource):
         args = self.parser.parse_args()
         tweetSearch(args["keyword"])
         sentiment = tweetSentimentAnalysis()
+        print(sentiment)
         return sentiment, 200
 
 
@@ -32,3 +33,4 @@ class ping(Resource):
 
     def get(self):
         return "hello", 200
+
