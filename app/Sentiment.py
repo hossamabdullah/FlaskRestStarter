@@ -54,6 +54,7 @@ def nerfun(tweet):
              print("555555555555555555555555555555555555555555")
              print(output)
              print("555555555555555555555555555555555555555555")
+             return output
 
 
 def posNegCount(tweet):
@@ -114,7 +115,7 @@ def tweetSentimentAnalysis():
         sentiment="NEUTRAL"
 
     valuesSum=positive_counter+negative_counter
-    output={'positive':positive_counter,'negative':negative_counter,'sentiment':sentiment,'valuesSum':valuesSum}
+    output={'positive':positive_counter,'negative':negative_counter,'sentiment':sentiment,'valuesSum':valuesSum,'ner':ner}
 
 
     print("//////////////////////////////////////////////////////////////////////////")
