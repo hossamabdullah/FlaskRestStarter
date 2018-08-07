@@ -3,7 +3,7 @@ from app import app
 from flask import request, jsonify
 from werkzeug.datastructures import FileStorage
 import os
-from app.Sentiment import tweetSearch, tweetSentimentAnalysis
+from app.Sentiment import Sentiment
 from flask import jsonify
 from flask_restplus import Api, Resource, fields, reqparse
 
@@ -36,11 +36,15 @@ class ValuesServicesAPI(Resource):
         self.parser = reqparse.RequestParser()
         self.parser.add_argument('keyword', required=True, help="keyword is required")
         args = self.parser.parse_args()
-        tweetSearch(args["keyword"])
-        output = tweetSentimentAnalysis()
+        sentiment=Sentiment()
+
+        sentiment.tweetSearch(args["keyword"])
+        output = sentiment.tweetSentimentAnalysis()
         print("***************************")
         print(output['positive'],output['negative'] ,output['valuesSum'])
         print("***************************")
+
+        
         return output, 200
 
 

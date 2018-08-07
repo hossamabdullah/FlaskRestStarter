@@ -16,3 +16,14 @@ composer card import --file networkadmin.card
 composer network ping --card admin@sentimentnetwork
 
 composer-rest-server -c admin@sentimentnetwork
+
+------------------------------------------
+for stop 
+
+./stopFabric.sh        
+
+for removing cash
+
+./teardownFabric.sh
+
+----------------
