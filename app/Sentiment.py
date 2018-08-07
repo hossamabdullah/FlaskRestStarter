@@ -5,6 +5,7 @@ from tweepy import OAuthHandler
 import codecs
 from string import punctuation
 from flask import Flask, render_template, request
+import nltk
 
 # The consumer key, consumer secret, access token and access secret should
 # be obtained from the Twitter UI when registering an application
@@ -45,6 +46,16 @@ def tweetSearch(celebrityName):
 # count the total number
 # of positive and negative words cumulated across all the
 # tweets stored in "testTweets.txt" and decide the sentiment.
+def nerfun(tweet):
+    for sent in nltk.sent_tokenize(tweet):
+       for chunk in nltk.ne_chunk(nltk.pos_tag(nltk.word_tokenize(sent))):
+          if hasattr(chunk, 'label'):
+             output=chunk.label(), ' '.join(c[0] for c in chunk)
+             print("555555555555555555555555555555555555555555")
+             print(output)
+             print("555555555555555555555555555555555555555555")
+
+
 def posNegCount(tweet):
 
     pos = 0
@@ -88,6 +99,8 @@ def tweetSentimentAnalysis():
             dataToBeSaved = "tweet with idx : --- {}  --- \n , have the following postivity : {} \n\n".format(tweet, temp)
             #print(dataToBeSaved.encode("utf-8"))
             outFile.write(dataToBeSaved)
+
+            ner=nerfun(tweet)
             
     outFile.close()
 

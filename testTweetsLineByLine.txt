@@ -1,3 +1,6 @@
+tweet with idx : --- @WalshFreedom And how is it that every single person on Trumb's campaign had Russian connections? Coincidence?  Not… https://t.co/6LcfpIrCse  --- 
+ , have the following postivity : 0 
+
 tweet with idx : --- RT @qoureno_michal: I #keep seeing “will #Trumb be #reelected” pool on @4chan whenever I enter. Imho and I m #neutral, not reelecting him m…  --- 
  , have the following postivity : 0 
 
@@ -305,8 +308,5 @@ tweet with idx : --- @GeorgeTakei Be ready to provide your photo ID in accordanc
  , have the following postivity : 1 
 
 tweet with idx : --- @realDonaldTrump Hello mr trumb ..i am very happy talk u  --- 
- , have the following postivity : 1 
-
-tweet with idx : --- @TravisAllen02 Maybe Trumb should just resign so Pence can pardon him.  --- 
  , have the following postivity : 1 
 
