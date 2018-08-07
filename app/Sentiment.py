@@ -23,10 +23,10 @@ api = tweepy.API(auth)
 
 # Load the list of positive and negative words
 # These will be used for analysing the tweets
-pos_sent = open("positive-words.txt").read()
+pos_sent = open("positive-words.txt", encoding="ISO-8859-1").read()
 positive_words = pos_sent.split('\n')
 
-neg_sent = open('negative-words.txt').read()
+neg_sent = open('negative-words.txt', encoding="ISO-8859-1").read()
 negative_words = neg_sent.split('\n')
 
 # tweetSearch() searches for 100 tweets containing the "Celebrity name"
