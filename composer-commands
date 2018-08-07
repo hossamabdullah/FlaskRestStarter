@@ -1,3 +1,10 @@
+cd ~/fabric-dev-servers
+
+./startFabric.sh
+
+-----------------------------------------
+cd <location of your network>
+
 composer archive create -t dir -n .
 
 composer network install --card PeerAdmin@hlfv1 --archiveFile sentimentnetwork@0.0.2.bna
