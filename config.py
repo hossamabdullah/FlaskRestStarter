@@ -14,3 +14,5 @@ STATUS = ["available", "pending", "sold"]
 DATABASE_URI = "mongodb://localhost:27017/petdb"
 
 API_KEY = "secret"
+
+API_URL = "http://localhost:3000/api"
