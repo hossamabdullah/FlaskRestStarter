@@ -1,23 +1,5 @@
 from enum import Enum
-# from mongoengine import Document
-# from mongoengine.fields import StringField, DictField, ListField, IntField
 
-# class Pet(Document):
-#     id = IntField(primary_key=True)
-#     category = DictField()
-#     name = StringField()
-#     photoUrls = ListField(StringField())
-#     tags =  ListField(DictField())
-#     status = StringField()
-
-
-# class Topic:    
-#     topicId=None
-#     goodReviewNum=None
-#     double badReviewNum=None
-#     String sentimentResult=None
-#     DateTime updateDate=None
-#     Sentence=[] 
 
 class Topic:
     def __init__(topicId, goodReviewNum, badReviewNum, sentimentResult ,updateDate,Sentence):
@@ -33,6 +15,7 @@ class Sentence:
         self.sentenceId  = sentenceId 
         self.content = content
         self.sentimentValue = sentimentValue
+
 
 
 class SentimentValues(Enum):

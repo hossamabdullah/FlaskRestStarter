@@ -17,9 +17,9 @@ cd <location of your network>
 
 composer archive create -t dir -n .
 
-composer network install --card PeerAdmin@hlfv1 --archiveFile sentimentnetwork@0.0.3.bna
+composer network install --card PeerAdmin@hlfv1 --archiveFile sentimentnetwork@0.0.4.bna
 
-composer network start --networkName sentimentnetwork --networkVersion 0.0.3 --networkAdmin admin --networkAdminEnrollSecret adminpw --card PeerAdmin@hlfv1 --file networkadmin.card
+composer network start --networkName sentimentnetwork --networkVersion 0.0.4 --networkAdmin admin --networkAdminEnrollSecret adminpw --card PeerAdmin@hlfv1 --file networkadmin.card
 
 composer card import --file networkadmin.card
 

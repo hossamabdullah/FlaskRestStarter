@@ -55,11 +55,11 @@ class Sentiment:
         for sent in nltk.sent_tokenize(tweet):
             for chunk in nltk.ne_chunk(nltk.pos_tag(nltk.word_tokenize(sent))):
                 if hasattr(chunk, 'label'):
-                    output=chunk.label(), ' '.join(c[0] for c in chunk)
+                    ner_result=chunk.label(), ' '.join(c[0] for c in chunk)
                     print("555555555555555555555555555555555555555555")
-                    print(output)
+                    print(ner_result)
                     print("555555555555555555555555555555555555555555")
-                    return output
+                    return ner_result
 
 
     def posNegCount(self, tweet):
