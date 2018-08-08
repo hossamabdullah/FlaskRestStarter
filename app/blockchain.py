@@ -19,3 +19,15 @@ class Blockchain:
         return r.status_code
 
     
+    def add_sentiment(self,keyword,sentiment_result, date,ner):
+        
+        r = requests.post('http://localhost:3000/api/org.fagr.sentiment.Topic', 
+        json={"$class": "org.fagr.sentiment.Topic",
+        "$class": "org.fagr.sentiment.Sentence",
+        "sentenceId":str(date),
+        "content": "string",
+        "sentiment": sentiment_result['sentiment'],
+        "NARKeywords": [ner],
+        "topic": {ner})
+        
+        return r.status_code

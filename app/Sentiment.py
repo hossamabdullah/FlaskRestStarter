@@ -129,7 +129,5 @@ class Sentiment:
         # Hopefully, this is self-explanatory
         blockchain = Blockchain()
         blockchain.add_topic(self.keyword, output, str(datetime.datetime.now()))
-
-        
         
         return (output)
