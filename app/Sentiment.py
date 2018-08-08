@@ -8,6 +8,7 @@ from flask import Flask, render_template, request
 import nltk
 from app.blockchain import Blockchain
 import datetime
+import time
 
 class Sentiment:
     def __init__(self):
@@ -121,13 +122,14 @@ class Sentiment:
 
         valuesSum=positive_counter+negative_counter
         output={'positive':positive_counter,'negative':negative_counter,'sentiment':sentiment,'valuesSum':valuesSum,'ner':ner}
-
+        
+        blockchain=Blockchain()
+        ts = time.time()
+        call=blockchain.add_topic(id=ts,keyword=self.keyword,sentiment_result=output,date=str(datetime.datetime.now()))
 
         print("//////////////////////////////////////////////////////////////////////////")
         print("positive_counter:", positive_counter, "negative_counter:", negative_counter,"valuesSum",valuesSum)
         print("//////////////////////////////////////////////////////////////////////////")
         # Hopefully, this is self-explanatory
-        blockchain = Blockchain()
-        blockchain.add_topic(self.keyword, output, str(datetime.datetime.now()))
         
         return (output)
