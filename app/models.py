@@ -11,10 +11,14 @@ class Topic:
         self.Sentence
 
 class Sentence:
-    def __init__(self, sentenceId, content, sentimentValue):
-        self.sentenceId  = sentenceId 
+    def __init__(self, id, content, sentiment_result, date, ner, topicModelingValues, topicId):
+        self.id  = id 
         self.content = content
-        self.sentimentValue = sentimentValue
+        self.sentiment_result = sentiment_result
+        self.date = date
+        self.ner = ner
+        self.topicModelingValues = topicModelingValues
+        self.topicId = topicId
 
 
 

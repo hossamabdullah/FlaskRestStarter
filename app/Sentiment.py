@@ -9,6 +9,7 @@ import nltk
 from app.blockchain import Blockchain
 import datetime
 import time
+from app.models import Sentence
 
 class Sentiment:
     def __init__(self):
@@ -97,6 +98,7 @@ class Sentiment:
 
         # Call posNegCount() on each tweet stored in tweets_list and
         # increment positive_counter and negative_counter accordingly
+        sentences = []
         for idx, tweet in enumerate(tweets_list):
             if(len(tweet)):
                 p, n = self.posNegCount(tweet)
@@ -106,8 +108,15 @@ class Sentiment:
                 dataToBeSaved = "tweet with idx : --- {}  --- \n , have the following postivity : {} \n\n".format(tweet, temp)
                 #print(dataToBeSaved.encode("utf-8"))
                 outFile.write(dataToBeSaved)
-
                 ner=self.nerfun(tweet)
+                if p > n:
+                    sentiment_sent="POSITIVE"
+                elif p < n:
+                    sentiment_sent="NEGATIVE"
+                else:
+                    sentiment_sent="NEUTRAL"
+                ts = time.time()
+                sentences.append(Sentence(ts, tweet, sentiment_sent, str(datetime.datetime.now()), ner, ner, "temp"))
                 
         outFile.close()
 
@@ -123,9 +132,14 @@ class Sentiment:
         valuesSum=positive_counter+negative_counter
         output={'positive':positive_counter,'negative':negative_counter,'sentiment':sentiment,'valuesSum':valuesSum,'ner':ner}
         
+        
         blockchain=Blockchain()
         ts = time.time()
         call=blockchain.add_topic(id=ts,keyword=self.keyword,sentiment_result=output,date=str(datetime.datetime.now()))
+        topicId = "resource:org.fagr.sentiment.Topic#" + str(ts)
+        for sent in sentences:
+            sent.topicId = topicId
+            blockchain.add_sentence(sent.id, sent.content, sent.sentiment_result, sent.date, sent.ner, sent.topicModelingValues, sent.topicId)
 
         print("//////////////////////////////////////////////////////////////////////////")
         print("positive_counter:", positive_counter, "negative_counter:", negative_counter,"valuesSum",valuesSum)

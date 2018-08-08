@@ -23,16 +23,16 @@ class Blockchain:
         return r.status_code
 
     
-    def add_sentence(self, id,  keyword, content, sentiment_result, date,ner, topicId):
-        keyword = "resource:org.fagr.sentiment.Topic#" + topicId
+    def add_sentence(self, id, content, sentiment_result, date, ner, topicModelingValues, topicId):
+        topicId = "resource:org.fagr.sentiment.Topic#" + topicId
         r = requests.post(self.API+'/org.fagr.sentiment.Sentence', 
         json={"$class": "org.fagr.sentiment.Sentence",
         "$class": "org.fagr.sentiment.Sentence",
         "sentenceId":id,
         "content": content,
-        "sentiment": sentiment_result['sentiment'],
+        "sentiment": sentiment_result,
         "NERKeywords": [ner],
-        "TopicModelingValues": [ner],
+        "TopicModelingValues": [topicModelingValues],
         "topic": topicId})
         return r.status_code
 
