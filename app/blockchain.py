@@ -1,6 +1,7 @@
+from app import app
 import requests
 import datetime 
-from app import app
+
 
 class Blockchain:
     def __init__(self):

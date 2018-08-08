@@ -6,7 +6,7 @@ import os
 from app.Sentiment import Sentiment
 from flask import jsonify
 from flask_restplus import Api, Resource, fields, reqparse
-
+from app.blockchain import Blockchain
 api = Api(app, version='1.0', title='Sentiment API',
     description='API for performing sentiment analysis',
 )
@@ -46,6 +46,19 @@ class ValuesServicesAPI(Resource):
 
         
         return output, 200
+
+@api.route('/topic', endpoint = 'SentimentApi')
+class BlockChainTopic(Resource):
+
+    @api.doc(params={'topic':'keyword to perform sentiment analysis on'})
+    def get(self):
+        self.parser = reqparse.RequestParser()
+        self.parser.add_argument('topic', required=True, help="topic is required")
+        args = self.parser.parse_args()
+        blockchain=Blockchain()
+        result=blockchain.return_topic(args["topic"])
+
+        return result, 200
 
 
 
