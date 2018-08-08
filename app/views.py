@@ -13,22 +13,7 @@ api = Api(app, version='1.0', title='Sentiment API',
 
 from app.Utils import Util
 
-@api.route('/sentiment', endpoint = 'SentimentServiceAPI')
-class SentimentServiceAPI(Resource):
-
-    @api.doc(params={'keyword':'keyword to perform sentiment analysis on'})
-    def post(self):
-        self.parser = reqparse.RequestParser()
-        self.parser.add_argument('keyword', required=True, help="keyword is required")
-        args = self.parser.parse_args()
-        tweetSearch(args["keyword"])
-        output = tweetSentimentAnalysis()
-        print("***************************")
-        print(output['sentiment'])
-        print("***************************")
-        return output['sentiment'], 200
-
-@api.route('/values', endpoint = 'SentimentDetailsAPI')
+@api.route('/sentiment/online', endpoint = 'SentimentDetailsAPI')
 class ValuesServicesAPI(Resource):
 
     @api.doc(params={'keyword':'keyword to perform sentiment analysis on'})
@@ -42,12 +27,10 @@ class ValuesServicesAPI(Resource):
         output = sentiment.tweetSentimentAnalysis()
         print("***************************")
         print(output['positive'],output['negative'] ,output['valuesSum'])
-        print("***************************")
-
-        
+        print("***************************")        
         return output, 200
 
-@api.route('/topic', endpoint = 'SentimentApi')
+@api.route('/history', endpoint = 'SentimentApi')
 class BlockChainTopic(Resource):
 
     @api.doc(params={'topic':'keyword to perform sentiment analysis on'})
@@ -59,12 +42,4 @@ class BlockChainTopic(Resource):
         result=blockchain.return_topic(args["topic"])
 
         return result, 200
-
-
-
-@api.route('/test', endpoint="test")
-class ping(Resource):
-
-    def get(self):
-        return "hello", 200
 
