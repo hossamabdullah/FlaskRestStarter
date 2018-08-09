@@ -11,6 +11,12 @@ import datetime
 import time
 from app.models import Sentence
 
+from nltk.corpus import stopwords 
+from nltk.stem.wordnet import WordNetLemmatizer
+import string
+import gensim
+from gensim import corpora
+
 class Sentiment:
     def __init__(self):
         # The consumer key, consumer secret, access token and access secret should
@@ -95,12 +101,40 @@ class Sentiment:
 
         positive_counter = 0
         negative_counter = 0
-
-        # Call posNegCount() on each tweet stored in tweets_list and
-        # increment positive_counter and negative_counter accordingly
         sentences = []
-        for idx, tweet in enumerate(tweets_list):
-            if(len(tweet)):
+        #implementation of topic modelling
+        for idx, tweet in enumerate (tweets_list):
+            if (len(tweet)):
+                print(tweet) 
+                stop = set(stopwords.words('english'))
+                exclude = set(string.punctuation) 
+                lemma = WordNetLemmatizer()
+                def clean(data):
+                    stop_free = " ".join([i for i in data.lower().split() if i not in stop])
+                    punc_free = ''.join(ch for ch in stop_free if ch not in exclude)
+                    normalized = " ".join(lemma.lemmatize(word) for word in punc_free.split())
+                    return normalized
+
+                tweet_clean = [clean(tweet).split()]
+                print(tweet_clean)
+                
+                dictionary = corpora.Dictionary(tweet_clean)
+                doc_term_matrix = [dictionary.doc2bow(doc) for doc in tweet_clean]
+
+                Lda = gensim.models.ldamodel.LdaModel
+                ldamodel = Lda(doc_term_matrix, num_topics=1, id2word = dictionary, passes=50)
+                ldamodel=ldamodel.print_topics(num_topics=1, num_words=3)
+                words=ldamodel[0][1]
+                words = words.split("+")
+                import re
+                topicModelingValues=[]
+                for word in words:
+                    word= re.sub(r'[?|$|.|!]',r'',word)
+                    word = re.sub(r'[^a-zA-Z0-9 ]',r'',word)
+                    result = ''.join([word for word in word if not word.isdigit()])
+                    topicModelingValues.append(result)
+        # Call outputo`unt() on each tweet stored in tweets_list and
+        # increment positive_counter and negative_counter accordingly
                 p, n = self.posNegCount(tweet)
                 positive_counter += p
                 negative_counter += n
@@ -116,8 +150,7 @@ class Sentiment:
                 else:
                     sentiment_sent="NEUTRAL"
                 ts = time.time()
-                sentences.append(Sentence(ts, tweet, sentiment_sent, str(datetime.datetime.now()), ner, ner, "temp"))
-                
+                sentences.append(Sentence(ts, tweet, sentiment_sent, str(datetime.datetime.now()), ner, topicModelingValues, "temp"))
         outFile.close()
 
         if positive_counter > negative_counter:
@@ -130,13 +163,13 @@ class Sentiment:
             sentiment="NEUTRAL"
 
         valuesSum=positive_counter+negative_counter
-        output={'positive':positive_counter,'negative':negative_counter,'sentiment':sentiment,'valuesSum':valuesSum,'ner':ner}
-        
+
+        output={'positive':positive_counter,'negative':negative_counter,'sentiment':sentiment,'valuesSum':valuesSum}
         
         blockchain=Blockchain()
         ts = time.time()
         call=blockchain.add_topic(id=ts,keyword=self.keyword,sentiment_result=output,date=str(datetime.datetime.now()))
-        topicId = "resource:org.fagr.sentiment.Topic#" + str(ts)
+        topicId = str(ts)
         for sent in sentences:
             sent.topicId = topicId
             blockchain.add_sentence(sent.id, sent.content, sent.sentiment_result, sent.date, sent.ner, sent.topicModelingValues, sent.topicId)

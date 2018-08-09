@@ -25,9 +25,9 @@ class ValuesServicesAPI(Resource):
 
         sentiment.tweetSearch(args["keyword"])
         output = sentiment.tweetSentimentAnalysis()
-        print("***************************")
-        print(output['positive'],output['negative'] ,output['valuesSum'])
-        print("***************************")        
+        # print("***************************")
+        # print(output['positive'],output['negative'] ,output['valuesSum'])
+        # print("***************************")        
         return output, 200
 
 @api.route('/historyOfTopics', endpoint = 'SentimentApi')
