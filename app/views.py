@@ -7,6 +7,7 @@ from app.Sentiment import Sentiment
 from flask import jsonify
 from flask_restplus import Api, Resource, fields, reqparse
 from app.blockchain import Blockchain
+
 api = Api(app, version='1.0', title='Sentiment API',
     description='API for performing sentiment analysis',
 )
@@ -25,6 +26,9 @@ class ValuesServicesAPI(Resource):
 
         sentiment.tweetSearch(args["keyword"])
         output = sentiment.tweetSentimentAnalysis()
+        # output={'positive':1548,'negative':335,
+        #     'sentiment':"POSITIVE",'valuesSum':2193,
+        #     'neural':310}
         print("***************************")
         print(output['positive'],output['negative'] ,output['valuesSum'])
         print("***************************")        
