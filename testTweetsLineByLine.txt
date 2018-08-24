@@ -4,6 +4,105 @@ tweet with idx : --- RT @slpng_giants_oz: CONFIRMED: @VodafoneAU have suspended 
 tweet with idx : --- Thank You - Vodafone we know its a diffi…  --- 
  , have the following postivity : 1 
 
+tweet with idx : --- Vodafone warns investment 'uncertainty' after Huawei 5G ban https://t.co/akhDNXyzcg https://t.co/H2DdjsbIg6  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @slpng_giants_oz: CONFIRMED: @VodafoneAU have suspended advertising on the Alan Jones program.  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Thank You - Vodafone we know its a diffi…  --- 
+ , have the following postivity : 1 
+
+tweet with idx : --- RT @slpng_giants_oz: CONFIRMED: @VodafoneAU have suspended advertising on the Alan Jones program.  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Thank You - Vodafone we know its a diffi…  --- 
+ , have the following postivity : 1 
+
+tweet with idx : --- RT @slpng_giants_oz: CONFIRMED: @VodafoneAU have suspended advertising on the Alan Jones program.  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Thank You - Vodafone we know its a diffi…  --- 
+ , have the following postivity : 1 
+
+tweet with idx : --- It's been 4 days @VodafoneIN saying ' will call you shortly'! Till now no one called! What kind of #customercare Is… https://t.co/am3j0IRzqc  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @slpng_giants_oz: CONFIRMED: @VodafoneAU have suspended advertising on the Alan Jones program.  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Thank You - Vodafone we know its a diffi…  --- 
+ , have the following postivity : 1 
+
+tweet with idx : --- RT @slpng_giants_oz: CONFIRMED: @VodafoneAU have suspended advertising on the Alan Jones program.  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Thank You - Vodafone we know its a diffi…  --- 
+ , have the following postivity : 1 
+
+tweet with idx : --- RT @slpng_giants_oz: CONFIRMED: @VodafoneAU have suspended advertising on the Alan Jones program.  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Thank You - Vodafone we know its a diffi…  --- 
+ , have the following postivity : 1 
+
+tweet with idx : --- RT @slpng_giants_oz: CONFIRMED: @VodafoneAU have suspended advertising on the Alan Jones program.  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Thank You - Vodafone we know its a diffi…  --- 
+ , have the following postivity : 1 
+
+tweet with idx : --- RT @slpng_giants_oz: CONFIRMED: @VodafoneAU have suspended advertising on the Alan Jones program.  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Thank You - Vodafone we know its a diffi…  --- 
+ , have the following postivity : 1 
+
+tweet with idx : --- @VodafoneQatar hello. I am currently in Bali, and I am trying to verify my emails that are connected to my Qatari V… https://t.co/MRR9HJ1cOS  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- RT @slpng_giants_oz: CONFIRMED: @VodafoneAU have suspended advertising on the Alan Jones program.  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Thank You - Vodafone we know its a diffi…  --- 
+ , have the following postivity : 1 
+
+tweet with idx : --- @kbshroff @VodafoneIN @vodafone That is how Vodafone  is trying to earn money after giving poor connectivity  --- 
+ , have the following postivity : -1 
+
+tweet with idx : --- RT @slpng_giants_oz: CONFIRMED: @VodafoneAU have suspended advertising on the Alan Jones program.  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Thank You - Vodafone we know its a diffi…  --- 
+ , have the following postivity : 1 
+
+tweet with idx : --- RT @slpng_giants_oz: CONFIRMED: @VodafoneAU have suspended advertising on the Alan Jones program.  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Thank You - Vodafone we know its a diffi…  --- 
+ , have the following postivity : 1 
+
+tweet with idx : --- Vodafone Passes are ‘unlimited data packets’ that give you unrestricted access to certain apps on your smart device… https://t.co/9k6qZC0bQf  --- 
+ , have the following postivity : 2 
+
+tweet with idx : --- RT @slpng_giants_oz: CONFIRMED: @VodafoneAU have suspended advertising on the Alan Jones program.  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Thank You - Vodafone we know its a diffi…  --- 
+ , have the following postivity : 1 
+
+tweet with idx : --- RT @slpng_giants_oz: CONFIRMED: @VodafoneAU have suspended advertising on the Alan Jones program.  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Thank You - Vodafone we know its a diffi…  --- 
+ , have the following postivity : 1 
+
+tweet with idx : --- RT @slpng_giants_oz: CONFIRMED: @VodafoneAU have suspended advertising on the Alan Jones program.  --- 
+ , have the following postivity : 0 
+
+tweet with idx : --- Thank You - Vodafone we know its a diffi…  --- 
+ , have the following postivity : 1 
+
 tweet with idx : --- RT @slpng_giants_oz: CONFIRMED: @VodafoneAU have suspended advertising on the Alan Jones program.  --- 
  , have the following postivity : 0 
 
@@ -416,110 +515,5 @@ tweet with idx : --- Thank You - Vodafone we know its a diffi…  ---
  , have the following postivity : 1 
 
 tweet with idx : --- RT @MartinFreemanOf: #MartinFreeman and Vodafone co-star Ivy having fun behind the scenes (source: https://t.co/rTtgwPeFSx) https://t.co/Wj…  --- 
- , have the following postivity : 1 
-
-tweet with idx : --- RT @slpng_giants_oz: CONFIRMED: @VodafoneAU have suspended advertising on the Alan Jones program.  --- 
- , have the following postivity : 0 
-
-tweet with idx : --- Thank You - Vodafone we know its a diffi…  --- 
- , have the following postivity : 1 
-
-tweet with idx : --- @shenoy70 Switch to Vodafone  --- 
- , have the following postivity : 0 
-
-tweet with idx : --- RT @slpng_giants_oz: CONFIRMED: @VodafoneAU have suspended advertising on the Alan Jones program.  --- 
- , have the following postivity : 0 
-
-tweet with idx : --- Thank You - Vodafone we know its a diffi…  --- 
- , have the following postivity : 1 
-
-tweet with idx : --- RT @slpng_giants_oz: CONFIRMED: @VodafoneAU have suspended advertising on the Alan Jones program.  --- 
- , have the following postivity : 0 
-
-tweet with idx : --- Thank You - Vodafone we know its a diffi…  --- 
- , have the following postivity : 1 
-
-tweet with idx : --- RT @Sickle_Life: Support the Adolescent Mentorship Project.  --- 
- , have the following postivity : 1 
-
-tweet with idx : --- Please send your donations via:  --- 
- , have the following postivity : 0 
-
-tweet with idx : --- MTN mobile money- 0246428080  --- 
- , have the following postivity : 0 
-
-tweet with idx : --- Vodafone Cash- 020…  --- 
- , have the following postivity : 0 
-
-tweet with idx : --- RT @slpng_giants_oz: CONFIRMED: @VodafoneAU have suspended advertising on the Alan Jones program.  --- 
- , have the following postivity : 0 
-
-tweet with idx : --- Thank You - Vodafone we know its a diffi…  --- 
- , have the following postivity : 1 
-
-tweet with idx : --- RT @slpng_giants_oz: CONFIRMED: @VodafoneAU have suspended advertising on the Alan Jones program.  --- 
- , have the following postivity : 0 
-
-tweet with idx : --- Thank You - Vodafone we know its a diffi…  --- 
- , have the following postivity : 1 
-
-tweet with idx : --- @LikhanAnon @airtelindia @Airtel_Presence Good luck buddy! As I said no operator except jio has the required infra… https://t.co/mpaC20LYCx  --- 
- , have the following postivity : 2 
-
-tweet with idx : --- RT @slpng_giants_oz: CONFIRMED: @VodafoneAU have suspended advertising on the Alan Jones program.  --- 
- , have the following postivity : 0 
-
-tweet with idx : --- Thank You - Vodafone we know its a diffi…  --- 
- , have the following postivity : 1 
-
-tweet with idx : --- RT @slpng_giants_oz: CONFIRMED: @VodafoneAU have suspended advertising on the Alan Jones program.  --- 
- , have the following postivity : 0 
-
-tweet with idx : --- Thank You - Vodafone we know its a diffi…  --- 
- , have the following postivity : 1 
-
-tweet with idx : --- RT @slpng_giants_oz: CONFIRMED: @VodafoneAU have suspended advertising on the Alan Jones program.  --- 
- , have the following postivity : 0 
-
-tweet with idx : --- Thank You - Vodafone we know its a diffi…  --- 
- , have the following postivity : 1 
-
-tweet with idx : --- RT @VerticalHoldAU: What will TPG/Vodafone merger mean for Australia? Is Google's Home Max worth taking home? What changes will new NBN CEO…  --- 
- , have the following postivity : 1 
-
-tweet with idx : --- What will TPG/Vodafone merger mean for Australia? Is Google's Home Max worth taking home? What changes will new NBN… https://t.co/ieeZ8TyUrB  --- 
- , have the following postivity : 1 
-
-tweet with idx : --- RT @slpng_giants_oz: CONFIRMED: @VodafoneAU have suspended advertising on the Alan Jones program.  --- 
- , have the following postivity : 0 
-
-tweet with idx : --- Thank You - Vodafone we know its a diffi…  --- 
- , have the following postivity : 1 
-
-tweet with idx : --- Being stuck at a Vodafone store is fun... #Sarcasm  --- 
- , have the following postivity : -1 
-
-tweet with idx : --- RT @slpng_giants_oz: CONFIRMED: @VodafoneAU have suspended advertising on the Alan Jones program.  --- 
- , have the following postivity : 0 
-
-tweet with idx : --- Thank You - Vodafone we know its a diffi…  --- 
- , have the following postivity : 1 
-
-tweet with idx : --- RT @slpng_giants_oz: CONFIRMED: @VodafoneAU have suspended advertising on the Alan Jones program.  --- 
- , have the following postivity : 0 
-
-tweet with idx : --- Thank You - Vodafone we know its a diffi…  --- 
- , have the following postivity : 1 
-
-tweet with idx : --- RT @slpng_giants_oz: CONFIRMED: @VodafoneAU have suspended advertising on the Alan Jones program.  --- 
- , have the following postivity : 0 
-
-tweet with idx : --- Thank You - Vodafone we know its a diffi…  --- 
- , have the following postivity : 1 
-
-tweet with idx : --- RT @slpng_giants_oz: CONFIRMED: @VodafoneAU have suspended advertising on the Alan Jones program.  --- 
- , have the following postivity : 0 
-
-tweet with idx : --- Thank You - Vodafone we know its a diffi…  --- 
  , have the following postivity : 1 
 
