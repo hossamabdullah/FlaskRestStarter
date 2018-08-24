@@ -17,6 +17,7 @@ class Blockchain:
         "keyword":keyword,
         "goodReviewNum": sentiment_result['positive'],
         "badReviewNum": sentiment_result['negative'],
+        "neuralReviewNum": sentiment_result['neural']
         "sentimentResult": sentiment_result['sentiment'],
         "updateDate": date})
         print("ya shiamaaaa"+ str(r.status_code))

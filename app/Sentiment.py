@@ -163,8 +163,10 @@ class Sentiment:
             sentiment="NEUTRAL"
 
         valuesSum=positive_counter+negative_counter
-
-        output={'positive':positive_counter,'negative':negative_counter,'sentiment':sentiment,'valuesSum':valuesSum}
+        neural_counter = len(tweets_list) - valuesSum
+        output={'positive':positive_counter,'negative':negative_counter,
+            'sentiment':sentiment,'valuesSum':valuesSum,
+            'neural':neural_counter}
         
         blockchain=Blockchain()
         ts = time.time()
