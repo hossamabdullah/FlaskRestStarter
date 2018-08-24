@@ -45,6 +45,16 @@ class BlockChainTopic(Resource):
         blockchain=Blockchain()
         result=blockchain.return_topic(args["topic"])
 
+        # tempObj = {
+        #     "goodReviewNum":2000,
+        #     "badReviewNum":1000,
+        #     "neuralReviewNum":500,
+        #     "sentimentResult":"POSITIVE",
+        #     "topicId":"123456",
+        #     "updateDate":"12-3-2018"
+        # }
+        # tempres = [tempObj, tempObj, tempObj]
+
         return result, 200
 
 @api.route('/historyOfSentences', endpoint = 'historyOfSentences')
@@ -55,8 +65,12 @@ class BlockChainSentence(Resource):
         self.parser = reqparse.RequestParser()
         self.parser.add_argument('topic', required=True, help="topic is required")
         args = self.parser.parse_args()
-        blockchain=Blockchain()
         print(args["topic"])
+        blockchain=Blockchain()
         result=blockchain.return_sentence(args["topic"])
-
+        # tempTweet = {
+        #     "sentiment":"Positive",
+        #     "content":"ay btngan"
+        # }
+        # tempres = [tempTweet, tempTweet, tempTweet]
         return result, 200
